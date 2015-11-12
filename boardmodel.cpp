@@ -1,3 +1,5 @@
+#include "boardmodel.h"
+
 GameBoardModel::GameBoardModel(int width, int height) {
 	self.width = width;
 	self.height = height;
